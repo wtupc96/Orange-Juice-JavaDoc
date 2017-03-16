@@ -1,0 +1,10 @@
+com.funcxy.oj
+com.funcxy.oj.contents
+com.funcxy.oj.controllers
+com.funcxy.oj.controllers.groups
+com.funcxy.oj.controllers.users
+com.funcxy.oj.errors
+com.funcxy.oj.models
+com.funcxy.oj.repositories
+com.funcxy.oj.services
+com.funcxy.oj.utils
